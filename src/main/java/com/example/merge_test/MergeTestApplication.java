@@ -11,6 +11,7 @@ public class MergeTestApplication {
 //		TEST1
 //		TEST2
 //		TEST3
+		System.out.println("NEWBRANCH");
 	}
 
 }
