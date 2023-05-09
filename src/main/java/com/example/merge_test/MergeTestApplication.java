@@ -8,6 +8,7 @@ public class MergeTestApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(MergeTestApplication.class, args);
+//		TEST1
 	}
 
 }
